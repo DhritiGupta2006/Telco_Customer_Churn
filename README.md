@@ -46,8 +46,8 @@ The following metrics are reported:
 
 ### 🔹 Baseline Model — Logistic Regression
 
-- **Accuracy:** `0.**7991**`
-- ****ROC**-**AUC**:** `0.**8403**`
+- **Accuracy:** `0.7991`
+- ****ROC**-**AUC**:** `0.8403`
 
 **Classification Summary:**
 
@@ -58,8 +58,8 @@ The following metrics are reported:
 
 ### 🔹 Improved Model — Random Forest (Selected Model)
 
-- **Accuracy:** `0.**7999**`
-- ****ROC**-**AUC**:** `0.**8317**`
+- **Accuracy:** `0.7999`
+- ****ROC**-**AUC**:** `0.8317`
 
 **Classification Summary:**
 
@@ -84,40 +84,16 @@ The following metrics are reported:
 
 ## 📈 Pipeline Stages
 
-## Data Loading
+1. Data Loading
+2. Data Cleaning
+3. Feature Encoding
+4. Exploratory Data Analysis (EDA)
+5. Feature Engineering
+6. Train/Test Split
+7. Feature Scaling
+8. Baseline Model Training
+9. Advanced Model Training
+10. Evaluation
+11. Error Analysis
+12. Explainability (Feature Importance)
 
-## Data Cleaning ## Feature Encoding ## Exploratory Data Analysis (EDA) ## Feature Engineering ## Train/Test Split ## Feature Scaling ## Baseline Model Training ## Advanced Model Training ## Evaluation ## Error Analysis ## Explainability (Feature Importance)
-
----
-
-## 🧩 Business Value
-
-- Identifies **high-risk churn customers**
-- Helps in **customer retention strategy**
-- Enables **targeted marketing & offers**
-- Reduces **revenue loss**
-
----
-
-## 🚀 Project Type
-
-- Academic ML Project
-- Industry-grade ML Pipeline
-- Hackathon-ready
-- Deployment-ready architecture
-
----
-
-## 📌 Track
-
-**Tabular Machine Learning**
-
----
-
-### 🏁 Status
-
-**Project Completed Successfully ✅**
-
----
-
-> This project follows a full ML lifecycle: **EDA** → Modeling → Evaluation → Explainability → Business Interpretation
